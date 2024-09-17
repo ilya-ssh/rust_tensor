@@ -1,2 +1,2 @@
 # rust_tensor
-Tensors in Rust
+Tensors in Rust from scratch
